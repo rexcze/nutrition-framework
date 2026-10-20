@@ -10,6 +10,7 @@ Fáze: … · Den vychází na … kcal a … g bílkovin · Košík: … Kč
 | | Dopoledne | | | |
 | | Oběd | podle tabulky níže | | |
 | | Odpoledne | | | |
+| | 🧊 Z mrazáku | vytáhni … (kolik) na linku / do lednice, na … | | |
 | | Večeře | | | |
 | | **Celkem** | | | |
 
@@ -23,6 +24,14 @@ Fáze: … · Den vychází na … kcal a … g bílkovin · Košík: … Kč
 | Čt | | | |
 | Pá | | | |
 | So | | | |
+
+## Z mrazáku
+
+Jednorázové věci navíc k řádkům 🧊 v denní tabulce. Řádek „Ne“ je večer před prvním dnem.
+
+| Kdy | Vytáhni | Kam | Na jídlo |
+| --- | --- | --- | --- |
+| Ne večer | | | |
 
 ## Poznámky
 

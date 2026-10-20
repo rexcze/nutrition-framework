@@ -10,6 +10,10 @@ hotova_jidla:
     bilkoviny_g:
     poznamka:
     overeno: RRRR-MM-DD
+    # jen u věcí z mrazáku (koupené mražené nebo se hned zamrazí):
+    # mrazak: true
+    # rozmrazit_h: 10          # hodin předem; 0 = jde rovnou z mrazu, bez připomínky
+    # rozmrazit_kde: lednice   # lednice | linka
 
 maso_a_ryby: []
 mlecne: []
