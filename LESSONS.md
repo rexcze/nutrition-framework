@@ -12,6 +12,10 @@ Proto má jídelníček nahoře tabulku „Z mrazáku“: každé vytažení je 
 Jídla v kalendáři pomáhají jako přehled, ale upozornění ke každému jídlu by bylo kolem 30 týdně a začala by se odklikávat i ta důležitá. Uživatel nejdřív chtěl upozornění jen u kroků přípravy, pak přidal svačiny, protože se na ně zapomíná jíst.
 Upozornění proto dostává událost s krokem z mrazáku a jídla, která vyjmenuje profil; ostatní jídla jsou v kalendáři potichu.
 
+**Kalendář uprostřed týdne vychází z toho, co se opravdu snědlo, ne z plánu.**
+Události na zbytek týdne vznikly podle původního plánu, ale jedno jídlo už se předtím prohodilo. Načaté balení tak bylo v kalendáři jako „první půlka“ a další obědy se posunuly.
+Před vytvořením událostí uprostřed týdne se zeptat, jestli dosavadní dny šly podle plánu, a posun zapsat do poznámek jídelníčku.
+
 ## Nástroje
 
 **Kalendář přidává výchozí upozornění, pokud se výslovně nevypne.**
