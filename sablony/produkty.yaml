@@ -1,5 +1,8 @@
 # Ověřené produkty z Rohlik.cz
 # id = productId v Rohlík MCP; kcal a bilkoviny_g na porci, jak se používá v jídelníčku
+# skladovani: mrazak u všeho, co je doma zmražené (i když se zamrazí až po doručení)
+# rozmrazeni: kdy vytáhnout před jídlem a kam, např. "2 h na lince", "večer předem do lednice",
+#   "neni_treba" (rovnou do trouby); bez údaje platí výchozí hodnoty z framework/05-nakup-na-rohliku.md
 
 hotova_jidla:
   - id: 0
@@ -9,6 +12,8 @@ hotova_jidla:
     kcal:
     bilkoviny_g:
     poznamka:
+    skladovani:
+    rozmrazeni:
     overeno: RRRR-MM-DD
 
 maso_a_ryby: []

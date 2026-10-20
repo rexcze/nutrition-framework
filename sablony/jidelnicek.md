@@ -24,6 +24,12 @@ Fáze: … · Den vychází na … kcal a … g bílkovin · Košík: … Kč
 | Pá | | | |
 | So | | | |
 
+## Z mrazáku
+
+| Kdy | Vytáhni | Kam | Na |
+| --- | --- | --- | --- |
+| Ne večer, při večeři | | | Po snídaně |
+
 ## Poznámky
 
 ## Jak to šlo
