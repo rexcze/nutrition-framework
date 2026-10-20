@@ -46,6 +46,12 @@
 - Sladké:
 - Večer:
 
+## Kalendář
+
+- Jídla v kalendáři: ano / ne (podle `framework/03-struktura-dne.md`)
+- Kalendář:
+- Upozornění: vždy u kroků přípravy; navíc u jídel: (např. dopolední a odpolední svačina)
+
 ## Vybavení kuchyně
 
 ## Rozpočet

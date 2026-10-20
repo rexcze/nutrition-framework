@@ -15,8 +15,9 @@ Rybí hotová jídla s 30 g bílkovin na Rohlíku chyběla (stav 10/2026); ryba 
 
 | Položka | Jak skladovat |
 | --- | --- |
-| Čerstvé pečivo | hned po doručení zamrazit, rozmrazit večer nebo opéct |
-| Bobulové ovoce | kupovat mražené, porci večer do lednice |
+| Čerstvé pečivo | hned po doručení zamrazit; kdy vytáhnout a jak z mrazáku rovnou, viz `03-struktura-dne.md`, Z mrazáku |
+| Bobulové ovoce | kupovat mražené, porci den předem do lednice nebo rovnou do jogurtu |
+| Mražené maso a ryba | rozmrazovat jen v lednici, vytáhnout večer předem |
 | Vejce natvrdo | neloupaná v lednici asi týden, lépe vařit ve dvou várkách |
 | Baby mrkev | lednice, 1–2 týdny |
 | Avokádo „ready to eat“ | sníst do 2–3 dnů, načaté zakrýt; hnědý povrch seškrábnout |

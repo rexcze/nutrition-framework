@@ -2,6 +2,17 @@
 
 Fáze: … · Den vychází na … kcal a … g bílkovin · Košík: … Kč
 
+## Z mrazáku
+
+Co vytáhnout předem a kdy, podle `framework/03-struktura-dne.md`. Každý krok je navázaný na jídlo, které se stejně dělá.
+
+| Kdy | Co | Na co |
+| --- | --- | --- |
+| denně k odpolední svačině | | večeře |
+| | | |
+
+Když zapomeneš: …
+
 ## Každý den stejně
 
 | Čas | Jídlo | Co | kcal | Bílkoviny |
@@ -25,6 +36,8 @@ Fáze: … · Den vychází na … kcal a … g bílkovin · Košík: … Kč
 | So | | | |
 
 ## Poznámky
+
+- Kalendář: kdy a kolik událostí vzniklo (`#jidelnicek`), nebo „ne“
 
 ## Jak to šlo
 
