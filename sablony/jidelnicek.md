@@ -24,6 +24,15 @@ Fáze: … · Den vychází na … kcal a … g bílkovin · Košík: … Kč
 | Pá | | | |
 | So | | | |
 
+## Z mrazáku
+
+Připomínky podle `rozmrazit_h` v produktech, navázané na jídlo, u kterého se má věc vytáhnout.
+
+| Kdy | Vytáhni | Kam | Na |
+| --- | --- | --- | --- |
+| Ne večer | | | Po snídaně |
+| Každý den při … | | | |
+
 ## Poznámky
 
 ## Jak to šlo

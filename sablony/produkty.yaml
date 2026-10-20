@@ -10,6 +10,11 @@ hotova_jidla:
     bilkoviny_g:
     poznamka:
     overeno: RRRR-MM-DD
+    # jen u zmražených:
+    # mrazak: true
+    # rozmrazit_kde: lednice
+    # rozmrazit_h: 12
+    # zachrana:
 
 maso_a_ryby: []
 mlecne: []
