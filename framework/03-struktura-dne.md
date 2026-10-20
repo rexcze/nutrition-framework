@@ -58,6 +58,8 @@ Na rozmrazování se zapomíná, takže ho jídelníček plánuje stejně jako j
 
 Maso a ryba se nerozmrazují při pokojové teplotě: povrch je dlouho v teplotě, ve které se množí bakterie. Rozmrazené maso se znovu nezamrazuje a sní se do 24 hodin.
 
+**První den týdne.** Co je potřeba už v pondělí ráno nebo v poledne (snídaňové ovoce, maso na oběd), se vytahuje v neděli večer, při večeři. Řádek pro neděli patří do tabulky „Z mrazáku“ na začátek, protože jídelníček jinak začíná až pondělím a tenhle krok by vypadl.
+
 V jídelníčku jsou všechny tyto kroky v jedné tabulce nahoře (šablona `sablony/jidelnicek.md`): každodenní i ty, které se týkají jen jednoho dne.
 
 ## Jídla v kalendáři

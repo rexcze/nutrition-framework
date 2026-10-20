@@ -8,6 +8,7 @@ Co vytáhnout předem a kdy, podle `framework/03-struktura-dne.md`. Každý krok
 
 | Kdy | Co | Na co |
 | --- | --- | --- |
+| neděle večer, při večeři | | pondělí (pokud něco potřebuje rozmrazit) |
 | denně k odpolední svačině | | večeře |
 | | | |
 

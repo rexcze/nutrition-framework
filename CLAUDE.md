@@ -10,7 +10,7 @@ Tento repozitář je obecná logika. Osobní údaje uživatele jsou v samostatn�
 4. Vyber produkty primárně z `produkty.yaml` v datech. U nových produktů na Rohlíku ověř složení podle vylučovacího seznamu v profilu a nutriční hodnoty, pak je do `produkty.yaml` přidej.
 5. Ověř ceny a dostupnost na Rohlíku, mění se (slevy, vyprodané zboží).
 6. Hlídej limity z `framework/02-zlata-pravidla.md`, rozpočet a trvanlivost.
-7. Projdi každé jídlo, jestli v něm není něco z mrazáku (`skladovani: mrazak` v `produkty.yaml`, pečivo, mražené ovoce, maso). Do tabulky „Z mrazáku“ v jídelníčku napiš, kdy to vytáhnout (navázané na předchozí jídlo) a záchranu, když se zapomene, podle `framework/03-struktura-dne.md`.
+7. Projdi každé jídlo, jestli v něm není něco z mrazáku (`skladovani: mrazak` v `produkty.yaml`, pečivo, mražené ovoce, maso). Do tabulky „Z mrazáku“ v jídelníčku napiš, kdy to vytáhnout (navázané na předchozí jídlo) a záchranu, když se zapomene, podle `framework/03-struktura-dne.md`. Co je potřeba v pondělí, patří na neděli večer.
 8. Jídelníček ulož do dat jako `jidelnicky/RRRR-MM-DD.md` (datum pondělí) podle `sablony/jidelnicek.md`.
 9. Pokud to profil zapíná, vytvoř jídla v kalendáři podle `framework/03-struktura-dne.md`, část Jídla v kalendáři. Před vytvořením ukaž uživateli přehled událostí. Když vznikají uprostřed týdne, nejdřív se zeptej, jestli dosavadní dny šly podle plánu; prohozené jídlo posune i ty další.
 10. Košík naplň přes Rohlík MCP. Objednávku nikdy nepotvrzuj, to dělá uživatel.
