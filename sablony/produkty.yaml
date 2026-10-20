@@ -1,0 +1,22 @@
+# Ověřené produkty z Rohlik.cz
+# id = productId v Rohlík MCP; kcal a bilkoviny_g na porci, jak se používá v jídelníčku
+
+hotova_jidla:
+  - id: 0
+    nazev:
+    baleni:
+    porci: 1
+    kcal:
+    bilkoviny_g:
+    poznamka:
+    overeno: RRRR-MM-DD
+
+maso_a_ryby: []
+mlecne: []
+pecivo: []
+ovoce_a_zelenina: []
+napoje: []
+
+vyrazene:
+  - nazev:
+    duvod:
