@@ -20,8 +20,8 @@ Příklad pro oběd ve 12 a spánek ve 23:
 | 8:00–9:00 | Snídaně |
 | kolem 10:30 | Dopolední svačina, jen při hladu |
 | 12:00–13:00 | Oběd |
-| 15:30–16:00 | Odpolední svačina |
-| 18:30–19:30 | Večeře |
+| 14:30–15:00 | Odpolední svačina |
+| 17:00–18:00 | Večeře |
 | od 20:00 | Kuchyně zavřená |
 
 ## Šablony jídel
