@@ -22,7 +22,7 @@ Data repozitář se zakládá ze šablon ve složce `sablony/`.
 
 ## Týdenní rutina
 
-- **Neděle:** zapsat měření, zhodnotit uplynulý týden, sestavit jídelníček a košík.
+- **Neděle:** zapsat měření, zhodnotit uplynulý týden, sestavit jídelníček a košík. Když jsou v plánu obědy v restauraci s menu zveřejněným až v pondělí, jídelníček a košík se dělají až po jeho zveřejnění.
 - **Pondělí:** doručení, pečivo do mrazáku.
 - **Během týdne:** jíst podle šablony, poznámky zapsat do jídelníčku.
 

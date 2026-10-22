@@ -4,7 +4,7 @@ Fáze: … · Den vychází na … kcal a … g bílkovin · Košík: … Kč
 
 ## Z mrazáku
 
-Co vytáhnout předem a kdy, podle `framework/03-struktura-dne.md`. Každý krok je navázaný na jídlo, které se stejně dělá.
+Co vytáhnout nebo připravit předem a kdy, podle `framework/03-struktura-dne.md`. Každý krok je navázaný na jídlo, které se stejně dělá.
 
 | Kdy | Co | Na co |
 | --- | --- | --- |

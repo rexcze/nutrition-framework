@@ -1,6 +1,6 @@
 # Nákup na Rohlíku
 
-Nákup jednou týdně, ideálně v neděli s doručením v pondělí. Ověřené produkty se ukládají do `produkty.yaml` v data repozitáři.
+Nákup jednou týdně. Bez pravidelné restaurace ideálně v neděli s doručením v pondělí. Když se oběd vybírá z menu restaurace, které se zveřejní až na začátku týdne, objednává se až po zveřejnění menu (viz `03-struktura-dne.md`, Restaurace v plánu). Ověřené produkty se ukládají do `produkty.yaml` v data repozitáři.
 
 ## Kritéria pro hotová jídla
 
@@ -23,7 +23,12 @@ Rybí hotová jídla s 30 g bílkovin na Rohlíku chyběla (stav 10/2026); ryba 
 | Avokádo „ready to eat“ | sníst do 2–3 dnů, načaté zakrýt; hnědý povrch seškrábnout |
 | Banány | pokojová teplota mimo ostatní ovoce, zralé do lednice |
 | Balené maso, šunka | po otevření do 24 hodin |
+| Velké balení jogurtu (kbelík, 1 kg) | po otevření do 3–4 dnů nebo podle obalu; čistá lžíce, nic zpět do balení. Plánovat na začátek týdne, zbytek týdne zatavené kelímky |
 | Hotová jídla | podle data spotřeby, podle něj prohodit dny |
+
+## Velká a malá balení
+
+Velké balení bývá o čtvrtinu až třetinu levnější na kilo a dovoluje porci odměřit podle chuti. Vyplatí se jen u věcí, které se spotřebují dřív, než se otevřené zkazí. Po otevření platí pravidlo z tabulky výše, a proto se pro zbytek týdne přikupují malá zatavená balení. Při výběru porovnávat cenu za kilo a složení: stejný produkt ve velkém balení je jasná volba, jiná tučnost nebo bílkovina ne.
 
 ## Postup
 

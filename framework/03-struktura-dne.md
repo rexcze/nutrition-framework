@@ -34,12 +34,39 @@ Příklad pro oběd ve 12 a spánek ve 23:
 | Odpolední svačina | protein nebo jiná bílkovina + zelenina; sem patří plánované sladké | 1 min | 15–25 g |
 | Večeře | pečivo + hotové maso nebo ryba + sýr + zelenina; studená nebo v toastovači | do 10 min | 35–50 g |
 
+## Variace a příprava předem
+
+Aby plán neomrzel, doplňková bílkovina (hlavně k dopolední svačině) se střídá: vejce natvrdo, jerky, šunka, jiné. Žádné pravidlo neurčuje, kolikrát týdně co; nic nevadí, když je jedna věc dvakrát nebo třikrát po sobě, pokud je připravená.
+
+Co se musí připravit předem (typicky vejce natvrdo na několik dnů), je krok jako vytažení z mrazáku: dostane místo v tabulce „Z mrazáku“ v jídelníčku a vlastní krátkou událost s upozorněním v kalendáři. Vařit se má v den, kdy jsou známé dny jejich spotřeby, a množství podle plánu (vejce natvrdo neloupaná vydrží v lednici asi týden, viz `05-nakup-na-rohliku.md`).
+
 ## Rychlá příprava
 
 - Vejce natvrdo v horkovzdušné troubě: zhruba 15 minut při 150 °C, pak do studené vody.
 - Zapékaná hotová jídla v horkovzdušné troubě, vršek zkřupne.
 - Tuňákový nebo lososový steak na kontaktním grilu: 3–4 minuty.
 - Teplá večeře: stejné suroviny v toastovači.
+
+## Restaurace v plánu
+
+Oběd v restauraci a hotový oběd z Rohlíku jsou rovnocenné zdroje a vybírá se mezi nimi. **Žádný pevný počet restauračních dnů neexistuje**, ani minimum, ani maximum. Co se použije v který den, rozhoduje menu, rozpočet a zbytek týdne. Podniky, odkaz na menu, kdy se menu zveřejňuje a odhady hodnot jsou v datech v `restaurants.md` (kostra v `sablony/restaurants.md`).
+
+**Jak se vybírá.** Restaurace dostane den, kdy menu splňuje tohle:
+- aspoň 30 g bílkovin v jídle, nebo jde snadno doplnit,
+- nic z vylučovacího seznamu v profilu,
+- smažené se vejde do týdenního limitu z `02-zlata-pravidla.md`; počítají se restaurace i hotová jídla dohromady,
+- smetanové omáčky a uzeniny se vejdou do limitů,
+- cena a zbytek týdne rozpočet unesou.
+
+Den, kdy nic z menu nesedí, jde na hotový oběd z Rohlíku. Dobré menu je důvod jít do restaurace, ne povinnost. Totéž platí obráceně: týden, kdy sedí všech pět dní, může být celý v restauraci.
+
+**Postup v týdnu.** Menu bývá známé až na začátku týdne (podle `restaurants.md`), proto se jídelníček a objednávka dělají až po jeho zveřejnění:
+- **První den týdne je oběd v restauraci,** pokud uživatel neřekne jinak. Jídelníček se sestavuje po zveřejnění menu, objednávka z Rohlíku se dělá hned po něm a doručení je odpoledne.
+- **Objednávka pokryje jen to, co se opravdu bude jíst:** obědy z Rohlíku jen na dny, kdy restaurace nesedla, a ostatní jídla od odpoledne prvního dne do oběda prvního dne příštího týdne. Tak odpadá zásoba hotových obědů na jistotu a nic se nevyhazuje.
+- **Doručení musí přijít před večeří prvního dne.** Jinak se ten večer řeší ze zbytků nebo ze spíže. Ranní jídla prvního dne (snídaně, svačiny před doručením) pokryje předchozí objednávka.
+- **Na konci týdne** zapsat do jídelníčku a do `restaurants.md`, které dny restaurace opravdu sedla.
+
+**Hodnoty jsou odhad,** restaurace je obvykle neuvádí a chyba může být 150–200 kcal. Odhady a zkušenosti (co chutnalo, jak dlouho se jídlo čeká) se zapisují do `restaurants.md` a časem zpřesňují.
 
 ## Z mrazáku
 

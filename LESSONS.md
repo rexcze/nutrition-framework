@@ -16,6 +16,10 @@ Upozornění proto dostává událost s krokem z mrazáku a jídla, která vyjme
 Události na zbytek týdne vznikly podle původního plánu, ale jedno jídlo už se předtím prohodilo. Načaté balení tak bylo v kalendáři jako „první půlka“ a další obědy se posunuly.
 Před vytvořením událostí uprostřed týdne se zeptat, jestli dosavadní dny šly podle plánu, a posun zapsat do poznámek jídelníčku.
 
+**Počet restauračních obědů se nestanovuje předem.**
+Uživatel dosud chodil na oběd do restaurace každý den, protože nevařil. První návrh s restaurací jako pevným bodem by to jen potvrdil. Chtěl flexibilitu: restaurace a hotový oběd z Rohlíku jsou rovnocenné a vybírá se podle menu, ceny a zbytku týdne, bez minima i maxima.
+Menu je známé až v pondělí, takže první nápad kupovat v neděli zásobu hotových obědů na jistotu nahradil lepší: jídelníček a objednávku dělat až po zveřejnění menu a koupit jen to, co se opravdu bude jíst.
+
 ## Nástroje
 
 **Kalendář přidává výchozí upozornění, pokud se výslovně nevypne.**
